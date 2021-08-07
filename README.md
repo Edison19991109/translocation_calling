@@ -2,9 +2,6 @@
 
 This is the pipeline for DNA translocation calling. 
 
-If you get any question about the pipeline, you can directly contact Edison Jianning KANG (e-mail address: <jianning.18@intl.zju.edu.cn>).
-
-
 # Outline
 
 <!-- TOC -->
@@ -123,4 +120,4 @@ To run the last four steps, you can run the script [`2_Cutadapt.sh`](https://git
 *(Detail version information of all the programs that are mentioned here are provided in an early section.)*
 
 # Reference
-It will be added later.
+https://github.com/richard-meier/digit-trl
